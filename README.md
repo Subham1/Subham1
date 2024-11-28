@@ -30,7 +30,7 @@ Welcome to my GitHub! I specialize in developing innovative web applications and
 
 ## 🌟 Participant in:  
 
-| ![GSSoC 2024](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/images/gssoc-logo.png) | ![Hacktoberfest 2024](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/images/hacktoberfest-logo.png) |
+| ![GSSoC 2024](https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg) | ![Hacktoberfest 2024](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxKdYqNTnIIUA1EmLWCJHeE9arVKp0zh2eA&s) |
 |:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
 | **GSSoC 2024**                                                                                              | **Hacktoberfest 2024**                                                                                                     |
 
