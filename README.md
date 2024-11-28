@@ -5,12 +5,6 @@ Welcome to my GitHub! I specialize in developing innovative web applications and
 
 ---
 
-## 📊 GitHub Stats:  
-
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
 
 ## 💻 What I Do  
 - **Web Development**: Proficient in **Node.js**, **Express.js**, **EJS**, **HTML/CSS**, **Bootstrap**, and more.  
@@ -41,11 +35,7 @@ Welcome to my GitHub! I specialize in developing innovative web applications and
 
 ---
 
-## 📫 Let's Connect  
-- **LinkedIn**: [Subham Sahu](#)  
-- **GitHub**: [Subham Sahu](#)  
 
----
 
 ## 🏆 Highlights  
 - Contributor to impactful open-source repositories.  
