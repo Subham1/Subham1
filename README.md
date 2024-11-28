@@ -27,16 +27,16 @@ Welcome to my GitHub! I specialize in developing innovative web applications and
 - **Version Control**: Git/GitHub, Pull Requests, Repository Management  
 
 ---
-
 ## 🌟 Participant in:  
 
 <div align="center">
 
-| ![GSSoC 2024](https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg) | ![Hacktoberfest 2024](https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-0-0.webp) |
-|:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
-| **GSSoC 2024**                                                                                              | **Hacktoberfest 2024**                                                                                                     |
+| <img src="https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" alt="GSSoC 2024" width="200" height="200"> | <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-0-0.webp" alt="Hacktoberfest 2024" width="200" height="200"> |
+|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+| **GSSoC 2024**                                                                                                             | **Hacktoberfest 2024**                                                                                                     |
 
 </div>
+
 
 
 ---
