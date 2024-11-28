@@ -1,20 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Subham Sahu!  
+### 🚀 Passionate Developer | Problem Solver | Open-Source Contributor  
 
-<!--
-**Subham1/Subham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I specialize in developing innovative web applications and working on impactful projects that combine technology and creativity.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:  
 
+![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+
+---
+
+## 💻 What I Do  
+- **Web Development**: Proficient in **Node.js**, **Express.js**, **EJS**, **HTML/CSS**, **Bootstrap**, and more.  
+- **Backend**: Experience with **MySQL**, **MongoDB**, and efficient API design.  
+- **Open Source**: Active participant in programs like **GSSoC 2024** and **Hacktoberfest 2024**.  
+- **Hackathons**: Worked on dynamic projects like **Bail Reckoner** and **Smart India Hackathon** challenges.  
+- **AI/ML Projects**: Leveraging machine learning for real-world applications, such as optimizing aluminum wire rod production.
+
+---
+
+## 🌟 Skills  
+- **Languages**: JavaScript, Python, SQL  
+- **Frameworks/Tools**: Flask, Firebase, Bcrypt, Mongoose  
+- **Version Control**: Git/GitHub, Pull Requests, Repository Management  
+
+---
+
+## 🌟 Participant in:  
+
+| ![GSSoC 2024](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/images/gssoc-logo.png) | ![Hacktoberfest 2024](https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/images/hacktoberfest-logo.png) |
+|:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+| **GSSoC 2024**                                                                                              | **Hacktoberfest 2024**                                                                                                     |
+
+---
+
+## 📫 Let's Connect  
+- **LinkedIn**: [Subham Sahu](#)  
+- **GitHub**: [Subham Sahu](#)  
+
+---
+
+## 🏆 Highlights  
+- Contributor to impactful open-source repositories.  
+- Designed and deployed full-stack applications.  
+- Innovating tech solutions to solve real-world challenges.  
+
+Feel free to explore my repositories and collaborate! 🚀  
 
 
 ## GSSOC(24) Badges 🪶
